@@ -1,0 +1,7 @@
+To Kill a Mockingbird+{"bookid": "BKID7821","booktitle": "To Kill a Mockingbird","author": "Harper Lee"}
+Pride and Prejudice+{"bookid": "BKID7822","booktitle": "Pride and Prejudice","author": "Jane Austen"}
+The Great Gatsby+{"bookid": "BKID7823","booktitle": "The Great Gatsby","author": "F. Scott Fitzgerald"}
+1984+{"bookid": "BKID7824","booktitle": "1984","author": "George Orwell"}
+The Catcher in the Rye+{"bookid": "BKID7825","booktitle": "The Catcher in the Rye", "author": "J.D. Salinger"}
+Brave New World+{"bookid": "BKID7826","booktitle": "Brave New World","author": "Aldous Huxley"}
+The Grapes of Wrath+{"bookid": "BKID7830","booktitle": "The Grapes of Wrath","author": "John Steinbeck"}
